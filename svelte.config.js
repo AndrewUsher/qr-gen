@@ -13,11 +13,6 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-		vite: {
-			optimizeDeps: {
-				include: ['qrcode']
-			}
-		}
 	},
 };
 
