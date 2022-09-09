@@ -1,7 +1,6 @@
 <script lang="ts">
 	export let url = '';
 	export let qrCodeDataURL = '';
-	console.log(url);
 
 	async function submitURL() {
 		try {
