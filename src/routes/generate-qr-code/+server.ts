@@ -1,5 +1,4 @@
-import { json as json$1 } from '@sveltejs/kit';
-import type { RequestHandler } from '../$types';
+import { json as json$1, type RequestHandler } from '@sveltejs/kit';
 import qr from 'qrcode';
 
 export const POST: RequestHandler = async ({ request }) => {
