@@ -256,10 +256,10 @@
   dependencies:
     import-meta-resolve "^3.0.0"
 
-"@sveltejs/kit@1.16.0":
-  version "1.16.0"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.16.0.tgz#1aaa154d161ecf880f6137a9aa03b09b580c56d6"
-  integrity sha512-uCCZuI5MVSAviQFYsts5VHSmvBUp2u/CPeWfwAYxbWZoPg8lsM24JGjLhCh0peQwQjIDXXVDVQI0jdvSGs91Lg==
+"@sveltejs/kit@1.16.1":
+  version "1.16.1"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.16.1.tgz#05b68b9591ef6c55a2a4072beb86e62225e12663"
+  integrity sha512-iRHrx8prCPvhpQo1r3s5LOpPCGARwYaPYV3YnyShxR7Mp+dfBc5QkU/VQe2ajqS9Lrgr44zXZZv1UCMBjunZqA==
   dependencies:
     "@sveltejs/vite-plugin-svelte" "^2.1.1"
     "@types/cookie" "^0.5.1"
