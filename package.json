@@ -19,7 +19,7 @@
 	"devDependencies": {
 		"@playwright/test": "1.37.0",
 		"@sveltejs/adapter-auto": "2.1.0",
-		"@sveltejs/kit": "1.22.5",
+		"@sveltejs/kit": "1.22.6",
 		"@types/qrcode": "1.5.1",
 		"@typescript-eslint/eslint-plugin": "5.62.0",
 		"@typescript-eslint/parser": "5.62.0",
